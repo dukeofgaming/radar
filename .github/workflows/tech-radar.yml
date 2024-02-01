@@ -32,5 +32,5 @@ jobs:
         with:
           radar_name: My Tech Radar
           directory: ./
-          public_url: / # Since Github Pages is used, https://flexion.github.io is prepended to the URL
+          public_url: /radar # Since Github Pages is used, https://flexion.github.io is prepended to the URL
           publish_to_pages: 'true'
