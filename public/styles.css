@@ -1,0 +1,11 @@
+body div#root{
+    background: #171717;
+}
+
+img.logo-link__img{
+    width: 250px !important;
+}
+
+a span.logo-link__slide span.logo-link__text{
+    opacity: 0;
+}
