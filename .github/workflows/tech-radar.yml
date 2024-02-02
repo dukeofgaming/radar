@@ -30,7 +30,7 @@ jobs:
         id: deployment
         uses: dvega-flexion/tech-radar-generator@v0.1.1
         with:
-          radar_name: My Tech Radar
+          radar_name: Tech Radar
           directory: ./
           public_url: /radar # Since Github Pages is used, https://flexion.github.io is prepended to the URL
           publish_to_pages: 'true'
