@@ -2,7 +2,7 @@ name: Tech Radar
 
 on:
   push:
-    branches: 'main'
+    branches: ['main']
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -30,7 +30,7 @@ jobs:
         id: deployment
         uses: flexion/tech-radar-generator@v0.1.2
         with:
-          radar_name: David Vega
+          radar_name: David Vega's Tech Radar
           directory: ./
           public_url: /radar # Since Github Pages is used, https://flexion.github.io is prepended to the URL
           publish_to_pages: 'true'
