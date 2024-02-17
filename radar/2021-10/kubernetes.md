@@ -1,7 +1,7 @@
 ---
 title: Kubernetes
 ring: trial
-quadrant: platforms-and-operations
+quadrant: platforms-and-aoe-services
 tags:
   - tech-radar
   - technology-tracker
