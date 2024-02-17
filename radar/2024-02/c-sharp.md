@@ -1,5 +1,5 @@
 ---
-title: C\#
+title: C#
 ring: trial
 quadrant: languages-and-frameworks
 tags:
