@@ -3,7 +3,6 @@ title: Documentation as Code
 ring: trial
 quadrant: methods-and-patterns
 tags:
-  - blips
   - methodology
   - docs-as-code
 ---
