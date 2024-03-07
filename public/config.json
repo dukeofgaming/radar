@@ -1,0 +1,16 @@
+{
+    "rings":[
+        "all", 
+        "influence",
+        "mentor", 
+        "innovate", 
+        "develop", 
+        "architect", 
+        "integrate", 
+        "adopt", 
+        "trial", 
+        "assess", 
+        "hold"
+    ],
+    "showEmptyRings": true
+  }
