@@ -1,0 +1,11 @@
+{
+    "rings":[
+        "all",
+        "integrate",
+        "adopt",
+        "trial",
+        "assess",
+        "hold"
+    ],
+    "showEmptyRings": true
+}
