@@ -1,6 +1,6 @@
 ---
 title: Developer Experience (DevEx)
-ring: explore
+ring: adopt
 quadrant: methods-and-patterns
 tags:
   - devex
