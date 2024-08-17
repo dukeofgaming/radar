@@ -1,6 +1,6 @@
 ---
 title: Developer Relations (DevRel)
-ring: explore
+ring: adopt
 quadrant: methods-and-patterns
 tags:
   - devrel
