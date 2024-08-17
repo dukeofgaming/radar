@@ -3,10 +3,8 @@ title: Terraform
 ring: adopt
 quadrant: languages-and-frameworks
 tags:
-  - tech-radar
   - language
   - iac
-  - flexion
 ---
 
 Took on Terraform as part of my new responsibilites as part of my new responsibilities as part of a client project.
