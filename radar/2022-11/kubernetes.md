@@ -4,6 +4,7 @@ ring: adopt
 quadrant: platforms-and-aoe-services
 tags:
   - kubernetes
+  - cloudrun
 ---
 
-Led migration from CloudRun to GKE for a modernization project. This involved working on an ADR to accelerate development and iterate towards kubernetes-native patterns, creating a Terraform module as a temporary measure to deploy non-released charts given the need to move fast while we figured out the best way to adapt our existing pipelines.
+Worked on getting GKE deployed and configured through Terraform and Github Actions through a Helm chart generic to all microservices in the project, using the Gateway API and HTTPRoute resources to integrate GCP PubSub endpoints and a BackendPolicy to configure TLS for internal endpoints using Kubernetes' CoreDNS.

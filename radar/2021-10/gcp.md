@@ -6,4 +6,4 @@ tags:
   - gcp
 ---
 
-Started a couple of personal projects with GCP using ComputeEngine, CloudSQL, CloudDNS
+Started a couple of personal projects with GCP using ComputeEngine, CloudSQL, CloudDNS.
