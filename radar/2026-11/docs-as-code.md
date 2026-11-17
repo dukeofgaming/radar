@@ -7,4 +7,4 @@ tags:
   - documentation
 ---
 
-Moved from trial to adopt. Markdown is the record in kiln, the manuscript scriptorium copies to Jira, Confluence, and Google Docs, and the stored format in sorcerer, on top of the Flexion design-doc practice. hotto-test ADR-7 says the same thing.
+Moved from trial to adopt. Markdown is the record in kiln, the manuscript scriptorium copies to Jira, Confluence, Google Docs, and GitHub issues and pull requests, and the stored format in sorcerer, on top of the Flexion design-doc practice. hotto-test ADR-7 says the same thing.
