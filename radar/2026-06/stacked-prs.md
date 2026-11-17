@@ -1,6 +1,6 @@
 ---
 title: Small stacked pull requests
-ring: adopt
+ring: "< 1 year"
 quadrant: methods-and-patterns
 tags:
   - git

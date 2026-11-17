@@ -1,6 +1,6 @@
 ---
 title: Style Dictionary
-ring: trial
+ring: "1+ years"
 quadrant: tools
 tags:
   - design-system

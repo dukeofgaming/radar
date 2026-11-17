@@ -1,6 +1,6 @@
 ---
 title: Python
-ring: trial
+ring: "1+ years"
 quadrant: languages-and-frameworks
 tags:
   - python

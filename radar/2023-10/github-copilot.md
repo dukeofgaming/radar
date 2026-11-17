@@ -1,6 +1,6 @@
 ---
 title: GitHub Copilot
-ring: adopt
+ring: "1+ years"
 quadrant: tools
 tags:
   - ai-coding

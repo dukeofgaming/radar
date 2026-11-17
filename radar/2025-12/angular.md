@@ -1,6 +1,6 @@
 ---
 title: Angular
-ring: assess
+ring: "< 1 year"
 quadrant: languages-and-frameworks
 tags:
   - frontend

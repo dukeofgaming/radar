@@ -1,6 +1,6 @@
 ---
 title: IPFS
-ring: assess
+ring: "< 1 year"
 quadrant: platforms-and-aoe-services
 tags:
   - ipfs

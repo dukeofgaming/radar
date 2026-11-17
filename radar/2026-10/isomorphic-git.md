@@ -1,6 +1,6 @@
 ---
 title: isomorphic-git
-ring: trial
+ring: "< 1 year"
 quadrant: tools
 tags:
   - git

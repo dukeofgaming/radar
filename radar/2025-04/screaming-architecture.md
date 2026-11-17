@@ -1,6 +1,6 @@
 ---
 title: Screaming and clean architecture
-ring: trial
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - architecture

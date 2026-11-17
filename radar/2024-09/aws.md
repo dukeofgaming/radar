@@ -1,6 +1,6 @@
 ---
 title: Amazon Web Services (AWS)
-ring: trial
+ring: "1+ years"
 quadrant: platforms-and-aoe-services
 tags:
   - aws

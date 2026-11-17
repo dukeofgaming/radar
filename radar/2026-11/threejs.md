@@ -1,10 +1,10 @@
 ---
 title: Three.js
-ring: trial
+ring: "< 1 year"
 quadrant: languages-and-frameworks
 tags:
   - 3d
   - frontend
 ---
 
-Trialed in imbue-app for a WebGPU bloom renderer with a WebGL2 fallback, behind a scene port (ADR 0004) and an HTML-in-canvas port (ADR 0005). The 3d-force-graph repo is an unmodified upstream fork and is not counted.
+Three.js is the 3D library in a private org-map app, behind a small rendering port so the rest of the UI does not talk to it directly. The scene uses WebGPU for a bloom effect and falls back to WebGL2. The public [3d-force-graph](https://github.com/dukeofgaming/3d-force-graph) repository is an unmodified fork and is not his code.

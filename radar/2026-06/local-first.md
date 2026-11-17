@@ -1,6 +1,6 @@
 ---
 title: Local-first software
-ring: trial
+ring: "< 1 year"
 quadrant: methods-and-patterns
 tags:
   - local-first

@@ -1,10 +1,10 @@
 ---
 title: libSQL
-ring: assess
+ring: "< 1 year"
 quadrant: platforms-and-aoe-services
 tags:
   - database
   - local-first
 ---
 
-imbue-app persists with libSQL and Drizzle in a local file and has no Turso credentials. refman looked at Turso and picked Pears instead, so the cloud product stays unadopted.
+libSQL is a local SQLite-compatible database tried in the private org-map app, with Drizzle as the query layer and no Turso cloud account. The private bibliography app looked at Turso and chose peer sync instead, so the hosted product is not in use.

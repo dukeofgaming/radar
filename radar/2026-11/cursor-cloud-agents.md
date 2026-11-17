@@ -1,10 +1,10 @@
 ---
 title: Cursor cloud agents
-ring: trial
+ring: "< 1 year"
 quadrant: tools
 tags:
   - ai-coding
   - devex
 ---
 
-Implementation on kiln, imbue-app, refman, and scriptorium is delegated to Cursor cloud agents (cursor and codex branches), with ADRs and Gherkin left in the repo as the spec. folio's only commit is that agent's initializer.
+Cursor cloud agents are how a lot of the recent slices get implemented: a decision record and a Gherkin file stay in the repo, and the agent opens the pull request. [scriptorium](https://github.com/dukeofgaming/scriptorium/pulls), the Markdown sync CLI, is the public example. The private branch viewer, org map, and bibliography app were built the same way.

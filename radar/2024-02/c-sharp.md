@@ -1,6 +1,6 @@
 ---
 title: C#
-ring: adopt
+ring: "1+ years"
 quadrant: languages-and-frameworks
 tags:
  - language

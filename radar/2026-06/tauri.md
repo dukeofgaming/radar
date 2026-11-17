@@ -1,6 +1,6 @@
 ---
 title: Tauri
-ring: trial
+ring: "< 1 year"
 quadrant: platforms-and-aoe-services
 tags:
   - desktop

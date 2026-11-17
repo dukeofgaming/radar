@@ -1,6 +1,6 @@
 ---
 title: Storybook
-ring: adopt
+ring: "1+ years"
 quadrant: tools
 tags:
   - frontend

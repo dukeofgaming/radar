@@ -1,6 +1,6 @@
 ---
 title: Vertical slicing
-ring: adopt
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - architecture

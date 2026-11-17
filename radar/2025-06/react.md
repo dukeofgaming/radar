@@ -1,6 +1,6 @@
 ---
 title: React
-ring: adopt
+ring: "5+ years"
 quadrant: languages-and-frameworks
 tags:
   - frontend

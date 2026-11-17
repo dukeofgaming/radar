@@ -1,6 +1,6 @@
 ---
 title: Rust
-ring: trial
+ring: "1+ years"
 quadrant: languages-and-frameworks
 tags:
   - rust

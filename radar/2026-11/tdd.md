@@ -1,9 +1,9 @@
 ---
 title: Test-driven development
-ring: trial
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - testing
 ---
 
-Refman's tdd skill requires the three laws before a domain, adapter, or UI change: a failing test first, no extra test, no extra production code. The Flexion C# work used TDD on some features, without writing the laws down.
+Test-driven development, in the strict form, is a failing test before the production code, then only enough code to pass, then a refactor. He used it on some C# features at Flexion. A private bibliography app writes the three laws down as the rule for its domain code, and treats a failing Gherkin scenario as that first test.

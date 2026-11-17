@@ -1,6 +1,6 @@
 ---
 title: Helm
-ring: adopt
+ring: "1+ years"
 quadrant: platforms-and-aoe-services
 tags:
   - kubernetes

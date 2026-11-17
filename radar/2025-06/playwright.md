@@ -1,6 +1,6 @@
 ---
 title: Playwright
-ring: adopt
+ring: "1+ years"
 quadrant: tools
 tags:
   - testing

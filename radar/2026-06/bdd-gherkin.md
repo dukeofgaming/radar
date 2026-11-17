@@ -1,6 +1,6 @@
 ---
 title: BDD with Gherkin
-ring: trial
+ring: "< 1 year"
 quadrant: methods-and-patterns
 tags:
   - testing

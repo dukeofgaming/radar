@@ -1,6 +1,6 @@
 # David Vega's Tech Radar
 
-Personal technology radar. Blips are Markdown files under `radar/<edition>/`, in the [AOE Technology Radar](https://github.com/AOEpeople/aoe_technology_radar) format (rings: adopt, trial, assess, hold). A later file with the same name revises that blip.
+Personal technology radar for readers who were not in the room. Blips are Markdown files under `radar/<edition>/`, in the [AOE Technology Radar](https://github.com/AOEpeople/aoe_technology_radar) format. The rings are years of use: 10+ years, 5+ years, 1+ years, and under a year. A later file with the same name revises that blip. An entry names the project and says what it is; links are only to public repositories.
 
 GitHub Pages publishes the site from `.github/workflows/tech-radar.yml` at [dukeofgaming.github.io/radar](https://dukeofgaming.github.io/radar/).
 

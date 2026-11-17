@@ -9,3 +9,9 @@ img.logo-link__img{
 a span.logo-link__slide span.logo-link__text{
     opacity: 0;
 }
+
+/* The year names are longer than the ring bands, so the on-chart
+   labels run into each other. The badges under the chart are the legend. */
+.chart .ring-label {
+    display: none;
+}

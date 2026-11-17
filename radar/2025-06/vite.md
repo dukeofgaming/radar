@@ -1,6 +1,6 @@
 ---
 title: Vite
-ring: adopt
+ring: "1+ years"
 quadrant: tools
 tags:
   - frontend

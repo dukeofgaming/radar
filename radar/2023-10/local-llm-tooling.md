@@ -1,6 +1,6 @@
 ---
 title: Local LLM tooling
-ring: assess
+ring: "< 1 year"
 quadrant: tools
 tags:
   - ai-coding

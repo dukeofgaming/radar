@@ -1,6 +1,6 @@
 ---
 title: Lightweight ADRs
-ring: adopt
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - adr

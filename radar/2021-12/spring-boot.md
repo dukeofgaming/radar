@@ -1,6 +1,6 @@
 ---
 title: Spring Boot
-ring: assess
+ring: "< 1 year"
 quadrant: languages-and-frameworks
 tags:
   - java

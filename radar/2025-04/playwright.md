@@ -1,6 +1,6 @@
 ---
 title: Playwright
-ring: trial
+ring: "1+ years"
 quadrant: tools
 tags:
   - testing

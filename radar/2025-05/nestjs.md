@@ -1,6 +1,6 @@
 ---
 title: NestJS
-ring: assess
+ring: "< 1 year"
 quadrant: languages-and-frameworks
 tags:
   - nodejs

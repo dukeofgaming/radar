@@ -1,6 +1,6 @@
 ---
 title: Domain-driven design
-ring: trial
+ring: "< 1 year"
 quadrant: methods-and-patterns
 tags:
   - architecture

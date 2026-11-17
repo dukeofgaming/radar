@@ -1,6 +1,6 @@
 ---
 title: pandoc
-ring: assess
+ring: "< 1 year"
 quadrant: methods-and-patterns
 tags:
   - methodology
