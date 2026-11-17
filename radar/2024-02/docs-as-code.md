@@ -1,6 +1,6 @@
 ---
 title: Documentation as Code
-ring: trial
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - methodology

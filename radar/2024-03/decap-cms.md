@@ -1,6 +1,6 @@
 ---
 title: Decap
-ring: assess
+ring: "< 1 year"
 quadrant: languages-and-frameworks
 tags:
   - docs-as-code

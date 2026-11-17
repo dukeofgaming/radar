@@ -1,6 +1,6 @@
 ---
 title:      "Tech Radar"
-ring:       assess
+ring: "1+ years"
 quadrant:   methods-and-patterns
 tags: 
 ---

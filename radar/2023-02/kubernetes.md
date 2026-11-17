@@ -1,6 +1,6 @@
 ---
 title: Kubernetes
-ring: adopt
+ring: "5+ years"
 quadrant: platforms-and-aoe-services
 tags:
   - kubernetes

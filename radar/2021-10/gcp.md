@@ -1,6 +1,6 @@
 ---
 title: Google Cloud Platform (GCP)
-ring: trial
+ring: "1+ years"
 quadrant: platforms-and-aoe-services
 tags:
   - gcp

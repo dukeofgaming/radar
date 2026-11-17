@@ -1,0 +1,91 @@
+{
+  "footerFootnote": "David Vega's personal radar. Years are counted conservatively from public writing and repositories. The chart is the open-source AOE Technology Radar.",
+  "legalInformationLabel": "AOE radar project",
+  "legalInformationLink": "https://github.com/AOEpeople/aoe_technology_radar",
+  "pageHelp": {
+    "headlinePrefix": "How to read",
+    "paragraphs": [
+      {
+        "headline": "What the rings mean",
+        "values": [
+          "The rings are years of hands-on use, not a rating of how good a technology is.",
+          "10+ years, 5+ years, and 1+ years are the buckets. The outer ring, under a year, means it has been used on a real repository, and not for a full year yet.",
+          "A quiet inner ring is intentional. Nothing is placed in 10+ years without a public record that goes back that far."
+        ]
+      },
+      {
+        "headline": "What an entry is",
+        "values": [
+          "Each entry names the projects that used the technology and says what that project is, so the link is optional.",
+          "Links point at public repositories only. Some current work is in private repositories and is described without a link."
+        ]
+      }
+    ],
+    "quadrants": [
+      {
+        "name": "Languages and frameworks",
+        "description": "Languages and the frameworks used to build the software."
+      },
+      {
+        "name": "Tools",
+        "description": "Editors, test runners, and the smaller programs around the code."
+      },
+      {
+        "name": "Methods and patterns",
+        "description": "How the work is structured: testing, architecture, and documentation."
+      },
+      {
+        "name": "Platforms and operations",
+        "description": "Where the software runs, from a laptop to a cloud cluster."
+      }
+    ],
+    "quadrantsPreDescription": "The four quadrants are:",
+    "rings": [
+      {
+        "name": "10+ years",
+        "description": "Used long enough to show up in public writing from around 2010 to 2017, and still part of the work."
+      },
+      {
+        "name": "5+ years",
+        "description": "Used across several years of projects. React and Kubernetes are the two that clear this bar."
+      },
+      {
+        "name": "1+ years",
+        "description": "Used seriously for at least a year, often on more than one project."
+      },
+      {
+        "name": "< 1 year",
+        "description": "Tried on a real repository this past year. Promising, and too new to call a year of experience."
+      }
+    ],
+    "ringsPreDescription": "Each item sits in one ring:",
+    "sourcecodeLink": {
+      "name": "This radar on GitHub",
+      "href": "https://github.com/dukeofgaming/radar",
+      "description": "The entries are Markdown files in this repository. The chart software is AOE's."
+    }
+  },
+  "pageIndex": {
+    "publishedLabel": "Quadrant Overview"
+  },
+  "pageItem": {
+    "quadrantOverview": "Quadrant Overview"
+  },
+  "pageOverview": {
+    "title": "Technologies Overview"
+  },
+  "revisionsText": "Revisions:",
+  "searchLabel": "Search",
+  "searchPlaceholder": "What are you looking for?",
+  "socialLinks": [
+    {
+      "href": "https://github.com/dukeofgaming",
+      "iconName": "github"
+    },
+    {
+      "href": "https://x.com/dukeofgaming",
+      "iconName": "twitter"
+    }
+  ],
+  "socialLinksLabel": "Find David:"
+}

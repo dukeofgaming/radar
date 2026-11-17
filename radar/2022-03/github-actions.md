@@ -1,6 +1,6 @@
 ---
 title: GitHub Actions
-ring: adopt
+ring: "1+ years"
 quadrant: tools
 tags:
   - cicd

@@ -20,17 +20,42 @@ jobs:
   generate_tech_radar:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.pages_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Tech Radar
-        id: deployment
-        uses: flexion/tech-radar-generator@v0.1.2
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          radar_name: David Vega's Tech Radar
-          directory: ./
-          public_url: /radar
-          publish_to_pages: 'true'
+          node-version: 20
+          cache: npm
+
+      # Same AOE 3.x build the live site was generated with
+      # (flexion/tech-radar-generator@v0.1.2). That action pins
+      # upload-pages-artifact@v2, which no longer runs, so the deploy
+      # steps below are the current GitHub Pages actions. PUBLIC_URL
+      # must stay /radar: Pages is a project site.
+      - name: Generate Tech Radar
+        env:
+          PUBLIC_URL: /radar
+          REACT_APP_RADAR_NAME: "David Vega's Tech Radar"
+        run: |
+          npm ci
+          npx aoe_technology_radar-buildRadar
+          npx aoe_technology_radar-generateJson
+          npx aoe_technology_radar-createStaticFiles
+          npm run build:static
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

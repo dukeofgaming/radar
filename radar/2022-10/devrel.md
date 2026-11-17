@@ -1,6 +1,6 @@
 ---
 title: Developer Relations (DevRel)
-ring: adopt
+ring: "1+ years"
 quadrant: methods-and-patterns
 tags:
   - devrel
