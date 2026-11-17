@@ -1,5 +1,8 @@
 # Node
 node_modules
 
+# AOE radar build output
+build
+
 # Obsidian
 .obsidian
